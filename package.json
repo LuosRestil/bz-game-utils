@@ -1,0 +1,16 @@
+{
+  "name": "bz-game-utils",
+  "version": "1.0.1",
+  "description": "Classes and utility functions I've created for making 2d browser games",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Luos Restil",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
